@@ -1,8 +1,8 @@
-name: ExoticGarden
+name: ExoticGarden-ResidenceCompatbility
 version: ${project.version}
-author: TheBusyBiscuit
-description: A Slimefun Addon that adds new Plants and dishes to the game
-website: https://github.com/TheBusyBiscuit/ExoticGarden
+author: "StreackMC Team"
+description: "A Slimefun Addon that adds new Plants and dishes to the game. Fix some bugs that conflicts with Residence. Origin author: thebusybiscuit."
+website: https://github.com/StreackMC/ExoticGarden-Residence-Compatibility
 
 api-version: '1.14'
 main: io.github.thebusybiscuit.exoticgarden.ExoticGarden
