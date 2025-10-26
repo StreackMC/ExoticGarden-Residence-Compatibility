@@ -109,15 +109,27 @@
             <scope>provided</scope>
         </dependency>
 
+        <!-- <dependency> -->
+            <!-- <groupId>com.github.StarWishsama</groupId> -->
+            <!-- <artifactId>Slimefun4</artifactId> -->
+            <!-- <version>2024.3</version> -->
+            <!-- <scope>provided</scope> -->
+            <!-- <exclusions> -->
+                <!-- <exclusion> -->
+                    <!-- <groupId>io.github.baked-libs</groupId> -->
+                    <!-- <artifactId>dough-api</artifactId> -->
+                <!-- </exclusion> -->
+            <!-- </exclusions> -->
+        <!-- </dependency> -->
         <dependency>
-            <groupId>com.github.StarWishsama</groupId>
+            <groupId>com.github.Slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>2024.3</version>
+            <version>RC-21</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
-                    <groupId>io.github.baked-libs</groupId>
-                    <artifactId>dough-api</artifactId>
+                    <groupId>io.github.thebusybiscuit</groupId>
+                    <artifactId>cscorelib2</artifactId>
                 </exclusion>
             </exclusions>
         </dependency>
